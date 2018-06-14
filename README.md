@@ -1,1 +1,1 @@
-# PAth-Planning-For-Autonomous-Vehicles
+# Path-Planning-For-Autonomous-Vehicles
