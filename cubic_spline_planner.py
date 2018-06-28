@@ -1,8 +1,5 @@
 """
 cubic spline planner
-
-Author: Atsushi Sakai
-
 """
 import math
 import numpy as np
